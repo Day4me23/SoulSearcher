@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player_projectile
+  - Enemy_attack
+  - NodeUp
+  - NodeDown
+  - NodeLeft
+  - NodeRight
+  - Wall
+  - Candle
+  - Key
+  - Coffin
+  - Healthbar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1745109675
+    locked: 0
+  - name: BottomItem
+    uniqueID: 623210533
+    locked: 0
+  - name: Item
+    uniqueID: 2105537095
+    locked: 0
+  - name: Player
+    uniqueID: 3225154389
+    locked: 0
+  - name: Overlay
+    uniqueID: 3873290567
+    locked: 0
+  - name: Projectile
+    uniqueID: 335530717
+    locked: 0
